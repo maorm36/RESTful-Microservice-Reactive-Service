@@ -57,8 +57,7 @@ A message is represented by the following JSON structure:
     "arrayAttribute": ["this", 8.8, { "nestedJson": true }]
   }
 }
-
----
+```json
 
 
 
